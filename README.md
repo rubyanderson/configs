@@ -2,7 +2,7 @@
 
 Here I keep all of my config files so I can be up and running with Debian in no time. 
 
-## Requirements
+### Requirements and additions
 
 These configs config `i3` and `vim` and requires `feh`. `xfce4-terminal` is a nice terminal that enables transparancy and some other good stuff.
 
