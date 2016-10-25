@@ -192,4 +192,3 @@ set $desktop-bg-path ~/Pictures/desktopbg.jpg
 focus_follows_mouse off
 hide_edge_borders both
 exec_always --no-startup-id feh --bg-fill $desktop-bg-path
-exec no-startup-id compton
