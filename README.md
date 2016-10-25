@@ -1,6 +1,6 @@
-# configs
+# config
 
-Here I keep all of my config files so I can be up and running with Debian in no time. 
+This is where I keep all of my config files so I can be up and running with Debian in no time. 
 
 ### Requirements and additions
 
